@@ -1,0 +1,72 @@
+body{
+    text-align: center;
+    background-color: #63748b;
+}
+.register{
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 40px;
+}
+.register2{
+    text-align: center;
+    color: #000;
+    margin-top: 40px;
+}
+.lastinput{
+height: 29px;
+margin-left: 10px;
+}
+.forminput{
+    height: 29px;
+    width: 360px;
+}
+.forminput-1{
+    height: 29px;
+}
+.forminput-2{
+    height: 29px;
+    margin-right: 351px;
+}
+.labelcheck{
+    margin-top: -30px;
+}
+p {
+    color: white;
+}
+.button{
+color: white;
+background-color: green;
+height: 46px;
+width: 360px;
+padding-top: 3px;
+font-size: 21px;
+}
+.card {
+  background-color: #fffafa;
+  box-sizing: border-box;
+  font-size: 18px;
+  height: 550px;
+  outline: 0;
+  padding: 4px 20px 0;
+  width: 25%;
+  text-align: center;
+  margin-left: 675px;
+  margin-top: 250px;
+  padding-top: 50px;
+}
+.green{
+    color: green;
+}
+.line{
+    width: 129px;
+    margin-top: -26px;
+}
+.line-1{
+    width: 129px;
+    margin-left: 307px;
+    margin-top: -12px;
+}
+.fotter{
+    margin-left: -60px;
+}
